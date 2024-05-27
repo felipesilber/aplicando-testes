@@ -1,0 +1,15 @@
+C:\Users\fsilb\OneDrive\Documentos\aplicando-testes\AplicandoTestes\AplicandoTestesApp\obj\Debug\net8.0\AplicandoTestesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsilb\OneDrive\Documentos\aplicando-testes\AplicandoTestes\AplicandoTestesApp\obj\Debug\net8.0\AplicandoTestesApp.AssemblyInfoInputs.cache
+C:\Users\fsilb\OneDrive\Documentos\aplicando-testes\AplicandoTestes\AplicandoTestesApp\obj\Debug\net8.0\AplicandoTestesApp.AssemblyInfo.cs
+C:\Users\fsilb\OneDrive\Documentos\aplicando-testes\AplicandoTestes\AplicandoTestesApp\obj\Debug\net8.0\AplicandoTestesApp.csproj.CoreCompileInputs.cache
+C:\Users\fsilb\OneDrive\Documentos\aplicando-testes\AplicandoTestes\AplicandoTestesApp\obj\Debug\net8.0\AplicandoTestesApp.sourcelink.json
+C:\Users\fsilb\OneDrive\Documentos\aplicando-testes\AplicandoTestes\AplicandoTestesApp\bin\Debug\net8.0\AplicandoTestesApp.exe
+C:\Users\fsilb\OneDrive\Documentos\aplicando-testes\AplicandoTestes\AplicandoTestesApp\bin\Debug\net8.0\AplicandoTestesApp.deps.json
+C:\Users\fsilb\OneDrive\Documentos\aplicando-testes\AplicandoTestes\AplicandoTestesApp\bin\Debug\net8.0\AplicandoTestesApp.runtimeconfig.json
+C:\Users\fsilb\OneDrive\Documentos\aplicando-testes\AplicandoTestes\AplicandoTestesApp\bin\Debug\net8.0\AplicandoTestesApp.dll
+C:\Users\fsilb\OneDrive\Documentos\aplicando-testes\AplicandoTestes\AplicandoTestesApp\bin\Debug\net8.0\AplicandoTestesApp.pdb
+C:\Users\fsilb\OneDrive\Documentos\aplicando-testes\AplicandoTestes\AplicandoTestesApp\obj\Debug\net8.0\AplicandoTestesApp.dll
+C:\Users\fsilb\OneDrive\Documentos\aplicando-testes\AplicandoTestes\AplicandoTestesApp\obj\Debug\net8.0\refint\AplicandoTestesApp.dll
+C:\Users\fsilb\OneDrive\Documentos\aplicando-testes\AplicandoTestes\AplicandoTestesApp\obj\Debug\net8.0\AplicandoTestesApp.pdb
+C:\Users\fsilb\OneDrive\Documentos\aplicando-testes\AplicandoTestes\AplicandoTestesApp\obj\Debug\net8.0\AplicandoTestesApp.genruntimeconfig.cache
+C:\Users\fsilb\OneDrive\Documentos\aplicando-testes\AplicandoTestes\AplicandoTestesApp\obj\Debug\net8.0\ref\AplicandoTestesApp.dll
